@@ -62,20 +62,20 @@ Este projeto é um site fictício de uma agência de branding e design digital, 
 ```
 
 ## 💡 Aprendizados
-Este projeto foi desenvolvido com o objetivo de:
-Aprender os conceitos básicos de componentes React
-Praticar a estilização com CSS Modules
-Trabalhar com estados e props (useState, props.ehTemaEscuro)
-Simular uma interface profissional com tema escuro e claro
+- Este projeto foi desenvolvido com o objetivo de:
+- Aprender os conceitos básicos de componentes React
+- Praticar a estilização com CSS Modules
+- Trabalhar com estados e props (useState, props.ehTemaEscuro)
+- Simular uma interface profissional com tema escuro e claro
 
 ## 📱 Responsividade
 O projeto utiliza media queries para adaptar a interface a diferentes tamanhos de tela, ocultando a imagem do banner em dispositivos móveis e otimizando a leitura e usabilidade.
 
 ## 📝 Melhorias Futuras
-Adicionar rotas para outras seções da agência
-Incluir formulário de contato funcional
-Publicar a aplicação via Vercel ou Netlify
-Refatorar para uso de contexto global de tema
+- Adicionar rotas para outras seções da agência
+- Incluir formulário de contato funcional
+- Publicar a aplicação via Vercel ou Netlify
+- Refatorar para uso de contexto global de tema
 
 ## Demo
 https://roberthvieira.github.io/Agencia-design-digital-M/
